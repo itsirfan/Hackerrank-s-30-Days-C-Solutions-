@@ -2,11 +2,16 @@
 [![My hackerrank profile](https://www.yosuccess.com/wp-content/uploads/2015/01/HackerRank2.png)](www.hackerrank.com/irfanadil0004)
 - Solutions to some problems on Hackerrank.
 
+# Guidelines-
+Feel Free To Add Solutions of questions in C, C++, Java, Python, Javascript & Maths!
+We'll Make a place where all the solution can be found for the beginners statring to code on hackerrank.
+Pull Request Made Must Edit Readme.md Also,making easier for the user finding sollutions!
+
 * [LANGUAGE PROFICIENCY](#language-proficiency)
     * [C](#c)
-    * [C++](#c++)
     * [Java](#java)
     * [Python](#python)
+    * [Dart](#dart)
     * [Shell](#shell)
 
 # LANGUAGE PROFICIENCY
