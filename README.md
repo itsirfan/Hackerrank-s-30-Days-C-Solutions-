@@ -1,11 +1,10 @@
-# HackerRank Solutions
-[![My hackerrank profile](https://www.yosuccess.com/wp-content/uploads/2015/01/HackerRank2.png)](www.hackerrank.com/irfanadil0004)
-- Solutions to some problems on Hackerrank.
+# HackerRank Solutions  -Irfanadil0004
+[![My hackerrank profile](https://www.modeloff.com/wp-content/uploads/2017/11/hackerrank.png)](www.hackerrank.com/irfanadil0004)
 
 # Guidelines-
-Feel Free To Add Solutions of questions in C, C++, Java, Python, Javascript & Maths!
+- Feel Free To Add Solutions of questions in C, C++, Java, Python, Javascript & Maths!
 We'll Make a place where all the solution can be found for the beginners statring to code on hackerrank.
-Pull Request Made Must Edit Readme.md Also,making easier for the user finding sollutions!
+- Pull Request Made Must Edit Readme.md Also,making easier for the user finding sollutions!
 
 * [LANGUAGE PROFICIENCY](#language-proficiency)
     * [C](#c)
@@ -14,8 +13,8 @@ Pull Request Made Must Edit Readme.md Also,making easier for the user finding so
     * [Dart](#dart)
     * [Shell](#shell)
 
-# LANGUAGE PROFICIENCY
-# C
+# Hakerranks Questions & Solutions
+# C -Programming Language 
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
@@ -90,7 +89,7 @@ Pull Request Made Must Edit Readme.md Also,making easier for the user finding so
 | Other Concepts | Medium | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | [ClassTemplateSpecialization.cpp](LANGUAGE%20PROFICIENCY/C%2B%2B/Other%20Concepts/ClassTemplateSpecialization.cpp)
 
 
-# Java
+# Java 
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
